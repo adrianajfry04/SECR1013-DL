@@ -1,0 +1,2 @@
+# S U M M A R Y 
+Dr. Zuriahati binti Mohd Yunos taught this course during a 15-week period. This course provides the basis for all microprocessor-based systems in computers. We were given the essentials of digital systems, including programmable logic devices. We are able to design and simulate digital circuits making use of Deeds software. Also, we were likewise able to put into action what we had learnt through labs and projects.
